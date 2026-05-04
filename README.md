@@ -1,0 +1,24 @@
+Driver Drowsiness Detection 
+
+This project detects whether a driver is feeling sleepy using AI.
+
+Features
+
+- Detects eye closure
+- Gives alert when driver is drowsy
+
+Tech Used
+
+- Node.js
+- Computer Vision
+- Machine Learning
+
+How to Run
+
+1. Terminal 1:npm run dev:servers
+
+2. Terminal 2:npm run dev:clients\
+
+Author
+
+Lakshminarayana
