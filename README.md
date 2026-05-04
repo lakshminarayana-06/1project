@@ -17,7 +17,7 @@ How to Run
 
 1. Terminal 1:npm run dev:servers
 
-2. Terminal 2:npm run dev:clients\
+2. Terminal 2:npm run dev:clients
 
 Author
 
